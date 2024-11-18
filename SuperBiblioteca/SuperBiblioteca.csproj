@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API_SuperBiblioteca.Data\API_SuperBiblioteca.Data.csproj" />
+    <ProjectReference Include="..\API_SuperBiblioteca.DTOs\API_SuperBiblioteca.DTOs.csproj" />
+    <ProjectReference Include="..\API_SuperBiblioteca.Models\API_SuperBiblioteca.Models.csproj" />
+  </ItemGroup>
+
+</Project>
