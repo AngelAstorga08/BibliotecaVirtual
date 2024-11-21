@@ -10,4 +10,12 @@
     <ProjectReference Include="..\API_SuperBiblioteca.Models\API_SuperBiblioteca.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Multa\" />
+    <Folder Include="Auth\" />
+    <Folder Include="Ejemplar\" />
+    <Folder Include="Prestamo\" />
+    <Folder Include="Usuario\" />
+  </ItemGroup>
+
 </Project>

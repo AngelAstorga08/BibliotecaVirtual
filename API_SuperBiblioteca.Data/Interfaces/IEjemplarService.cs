@@ -8,5 +8,6 @@ namespace API_SuperBiblioteca.Data.Interfaces
 {
     public interface IEjemplarService
     {
+       
     }
 }

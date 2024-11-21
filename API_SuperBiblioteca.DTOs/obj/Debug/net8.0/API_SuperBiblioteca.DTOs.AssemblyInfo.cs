@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_SuperBiblioteca.DTOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e112682358d8caf6d42985a58a777d173525b317")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_SuperBiblioteca.DTOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_SuperBiblioteca.DTOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,6 +14,6 @@ namespace API_SuperBiblioteca.Models
         public string ApellidoMaterno { get; set; }
         public string Correo { get; set; }
         public string NombreRol { get; set; }
-        public List<PrestamoModel> Prestamo { get; set; }
+        public List<PrestamoModel> Prestamos { get; set; }
     }
 }
